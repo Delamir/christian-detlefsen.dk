@@ -181,9 +181,9 @@ h4 {
     border-radius: 15px;
 }
 
-.about-all:hover {
+/*.about-all:hover {
     transform: translateY(-5px);
-}
+}*/
 
 .about-left {
     display: flex;
